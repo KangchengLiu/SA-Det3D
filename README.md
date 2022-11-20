@@ -1,6 +1,6 @@
 # SA-Det3D: Self-Attention Based Context-Aware 3D Object Detection
 
- This repo is maintained, adapted, and updated by [Dr. Kangcheng Liu](https://scholar.google.com/citations?hl=en&user=qq2aoesAAAAJ&view_op=list_works&sortby=pubdate). 
+This repo is maintained, adapted, and updated by [Dr. Kangcheng Liu](https://scholar.google.com/citations?hl=en&user=qq2aoesAAAAJ&view_op=list_works&sortby=pubdate). 
 
 We provide code support and configuration files to reproduce the results in the paper:
 [SA-Det3D: Self-Attention Based Context-Aware 3D Object Detection](https://arxiv.org/abs/2101.02672). 
