@@ -115,6 +115,15 @@ Please refer to [GETTING_STARTED.md](docs/GETTING_STARTED.md) to learn more abou
 ## Citation
 If you find this project useful in your research, please consider citing:
 ```
+@inproceedings{liu2022weaklabel3d,
+  title={Weaklabel3d-net: A complete framework for real-scene lidar point clouds weakly supervised multi-tasks understanding},
+  author={Liu, Kangcheng and Zhao, Yuzhi and Gao, Zhi and Chen, Ben M},
+  booktitle={2022 International Conference on Robotics and Automation (ICRA)},
+  pages={5108--5115},
+  year={2022},
+  organization={IEEE}
+}
+
 @misc{bhattacharyya2021sadet3d,
       title={SA-Det3D: Self-Attention Based Context-Aware 3D Object Detection}, 
       author={Prarthana Bhattacharyya and Chengjie Huang and Krzysztof Czarnecki},
